@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 00a86a54d3a964d4182d3dcc27cef07a
+timeCreated: 1482157594
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrefab: {fileID: 1532870454871356, guid: 5a55bd23f03af614e87ec0b05d79d088,
+      type: 2}
+  - rectPrefab: {fileID: 1760840033531046, guid: 37c57bf8cfb4ec2459edd579c6f905b5,
+      type: 2}
+  - spherePrefab: {fileID: 1152649784802288, guid: 8df5923863b210b499143f60381d8c5a,
+      type: 2}
+  - cylinderPrefab: {fileID: 1175978802336544, guid: 14a67aebc4fa01e40b252a3af44af778,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

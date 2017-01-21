@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buildin' Up", "Buildin' Up.csproj", "{D963685C-7298-2FC6-34C7-E78E4DA068CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buildin' Up.Editor", "Buildin' Up.Editor.csproj", "{FA2F5F7A-803C-00B5-F3E9-3395ED918D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D963685C-7298-2FC6-34C7-E78E4DA068CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D963685C-7298-2FC6-34C7-E78E4DA068CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D963685C-7298-2FC6-34C7-E78E4DA068CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D963685C-7298-2FC6-34C7-E78E4DA068CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2F5F7A-803C-00B5-F3E9-3395ED918D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2F5F7A-803C-00B5-F3E9-3395ED918D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2F5F7A-803C-00B5-F3E9-3395ED918D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2F5F7A-803C-00B5-F3E9-3395ED918D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
