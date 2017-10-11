@@ -22,6 +22,7 @@
 
 ### Screenshots from the Game:
 
+
 <p>
   <img align="left" src="https://github.com/dogaminekaba/Buildin-Up/blob/master/readme_images/buildinup_img1.png" width="300"/>
   <img align="center" src="https://github.com/dogaminekaba/Buildin-Up/blob/master/readme_images/buildinup_img2.png" width="300"/>
